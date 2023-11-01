@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Yasien Ghalwash
 
-# Name pronunciation (optional)
-name_pronunciation: Yasien Ghalwash
+# # Name pronunciation (optional)
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yasien
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yasien, Currently working as AI Engineer at (Inspire for Solutions Developments)[https://www.linkedin.com/company/inspire-for-solutions-development/] since August 2023.
 {style="text-align: justify;"}
