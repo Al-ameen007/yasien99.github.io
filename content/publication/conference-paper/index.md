@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -83,7 +83,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
