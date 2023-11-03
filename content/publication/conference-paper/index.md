@@ -38,29 +38,7 @@ publication_types: ['paper-conference']
 publication: In *The 11th IEEE International Conference on E-Health and Bioengineering*
 publication_short: In *EHB*
 
-abstract: Breast cancer stands as a formidable global health 
-challenge, substantially impacting cancer-related mortality rates. 
-Ultrasound (US) imaging has gained prominence in breast cancer 
-diagnosis, particularly for individuals with dense breast tissue. 
-However, the efficacy of US imaging is reliant on operator 
-proficiency and is susceptible to noise, posing a substantial 
-diagnostic hurdle. In this study, we have devised an automated 
-ultrasound-based Computer-Aided Diagnosis (CAD) system 
-designed to detect and classify breast cancer lesions. A dataset 
-comprising 6,319 images from 2889 patients was employed. To 
-ensure the generalizability of our AI algorithm, images were 
-acquired using various US machines with different transducers (1-
-14 MHz). Deep learning methodologies were harnessed, 
-encompassing the utilization of the EfficientNetV2-B0 architecture 
-for image classification (benign/malignant) and the 
-implementation of the Attention U-Net coupled with the Cosh log 
-Dice loss function for breast lesion segmentation. Our CAD system 
-demonstrated an impressive sensitivity of 89.0% and specificity of 
-92.0% for classification, along with a segmentation Dice score of 
-86.0%. The integration of such CAD systems into breast imaging 
-workflows holds promise for diminishing the influence of human 
-errors, consequently reducing diagnostic costs, and expediting the 
-breast US imaging process.
+abstract: Breast cancer stands as a formidable global health challenge, substantially impacting cancer-related mortality rates. Ultrasound (US) imaging has gained prominence in breast cancer diagnosis, particularly for individuals with dense breast tissue. However, the efficacy of US imaging is reliant on operator proficiency and is susceptible to noise, posing a substantial diagnostic hurdle. In this study, we have devised an automated ultrasound-based Computer-Aided Diagnosis (CAD) system designed to detect and classify breast cancer lesions. A dataset comprising 6,319 images from 2889 patients was employed. To ensure the generalizability of our AI algorithm, images were acquired using various US machines with different transducers (1-14 MHz). Deep learning methodologies were harnessed, encompassing the utilization of the EfficientNetV2-B0 architecture for image classification (benign/malignant) and the implementation of the Attention U-Net coupled with the Cosh log Dice loss function for breast lesion segmentation. Our CAD system demonstrated an impressive sensitivity of 89.0% and specificity of 92.0% for classification, along with a segmentation Dice score of 86.0%. The integration of such CAD systems into breast imaging workflows holds promise for diminishing the influence of human errors, consequently reducing diagnostic costs, and expediting the breast US imaging process.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -83,7 +61,7 @@ url_pdf: 'Computer-Aided System for Breast Cancer Lesion Segmentation and Classi
 # url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
- url_video: 'https://youtu.be/N53bXYM0_rg'
+url_video: 'https://youtu.be/N53bXYM0_rg'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
