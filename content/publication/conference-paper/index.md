@@ -5,19 +5,29 @@ title: 'An example conference paper'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+- Saied Salem
+- Ahmed Mostafa
+- Yasien E. Ghalwash
+- Manar N. Mahmoud
+- Ahmed F. Elnokrashy
+- Ahmed M. Mahmoud
+
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
+  - 'minor contribution'
+  - 'minor contribution'
+  - 'minor contribution'
+  
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-11-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-13T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,15 +35,38 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *The 11th IEEE International Conference on E-Health and Bioengineering*
+publication_short: In *EHB*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Breast cancer stands as a formidable global health 
+challenge, substantially impacting cancer-related mortality rates. 
+Ultrasound (US) imaging has gained prominence in breast cancer 
+diagnosis, particularly for individuals with dense breast tissue. 
+However, the efficacy of US imaging is reliant on operator 
+proficiency and is susceptible to noise, posing a substantial 
+diagnostic hurdle. In this study, we have devised an automated 
+ultrasound-based Computer-Aided Diagnosis (CAD) system 
+designed to detect and classify breast cancer lesions. A dataset 
+comprising 6,319 images from 2889 patients was employed. To 
+ensure the generalizability of our AI algorithm, images were 
+acquired using various US machines with different transducers (1-
+14 MHz). Deep learning methodologies were harnessed, 
+encompassing the utilization of the EfficientNetV2-B0 architecture 
+for image classification (benign/malignant) and the 
+implementation of the Attention U-Net coupled with the Cosh log 
+Dice loss function for breast lesion segmentation. Our CAD system 
+demonstrated an impressive sensitivity of 89.0% and specificity of 
+92.0% for classification, along with a segmentation Dice score of 
+86.0%. The integration of such CAD systems into breast imaging 
+workflows holds promise for diminishing the influence of human 
+errors, consequently reducing diagnostic costs, and expediting the 
+breast US imaging process.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Breast cancer diagnosis, Ultrasound, Computer 
+aid diagnoses (CAD), Deep Learning, Explainable AI (XAI)]
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,14 +76,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
+url_pdf: 'Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images.pdf'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+ url_video: 'https://youtu.be/N53bXYM0_rg'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

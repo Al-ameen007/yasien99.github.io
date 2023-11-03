@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-I am Yasien, Currently working as AI Engineer at (Inspire for Solutions Developments)[https://www.linkedin.com/company/inspire-for-solutions-development/] since August 2023.
+I am Yasien, Currently working as AI Engineer at [Inspire for Solutions Developments](https://www.linkedin.com/company/inspire-for-solutions-development/) since August 2023.
 {style="text-align: justify;"}
