@@ -65,24 +65,39 @@ sections:
         - title: AI Engineer
           company: Inspire for Solutions Development
           company_url: 'https://www.linkedin.com/company/inspire-for-solutions-development/mycompany/'
-          company_logo: org-gc
+          company_logo: inspire_for_solutions_development_logo
           location: Cairo, Egypt
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2023-11-01'
+          date_end: 'Now'
           description: |2-
-              Responsibilities include:
+              *  Utilized IBM Watson and other AI technologies, integrated
+them into IBM Cloud PAK, and monitored their performance.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
+        - title: R&D Engineer
+          company:  Astute imaging
+          company_url: 'https://astuteimaging.com/'
+          company_logo: astute_imaging_logo
           location: Cairo, Egypt
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2022-09-01'
+          date_end: '2023-08-31'
+          description:  |2-
+              * Contributed to Building End to end System for Automatic Segmentation and Classification of Breast Cancer Ultra-Sound Images as part of my graduation project.
+              * Used powerful Deep Neural Networks like Unet, attention Unet, and Efficient Net.
+              * Optimized AI models for both CPU and GPU platforms to enhance performance and maximize computational resources.
+              * Implemented Docker containers to encapsulate the various components of the system, enabling easy deployment and management.
+              * Utilized Azure Virtual Machines (VM) to host and run the containerized system.
+  
+          - title: Biomedical Engineer Intern
+          company:  Siemens Healthineers
+          company_url: 'https://www.siemens-healthineers.com/'
+          company_logo: siemens_healthineers_logo
+          location: Cairo, Egypt
+          date_start: '2022-08-01'
+          date_end: '2022-08-31'
+          description:  |2-
+              * Know the main components and Basics of MRI, CT, PET/CT
+and medical laboratory equipment
+
     design:
       columns: '2'
   # - block: accomplishments
