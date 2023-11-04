@@ -112,8 +112,6 @@ social:
     icon_pack: ai
     link: uploads/Yasien_Essam_Resume.pdf
 
-- block: buttons
-  content:
     buttons:
     - title: Transcript
       icon: arxiv
