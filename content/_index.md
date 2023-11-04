@@ -65,7 +65,7 @@ sections:
         - title: AI Engineer
           company: Inspire for Solutions Development
           company_url: 'https://www.linkedin.com/company/inspire-for-solutions-development/mycompany/'
-          company_logo: inspire_for_solutions_development_logo
+          company_logo: 
           location: Cairo, Egypt
           date_start: '2023-11-01'
           date_end: ''
@@ -75,7 +75,7 @@ sections:
         - title: R&D Engineer
           company:  Astute imaging
           company_url: 'https://astuteimaging.com/'
-          company_logo: astute_imaging_logo
+          company_logo: 
           location: Cairo, Egypt
           date_start: '2022-09-01'
           date_end: '2023-08-31'
@@ -88,7 +88,7 @@ sections:
         - title: Biomedical Engineer Intern
           company:  Siemens Healthineers
           company_url: 'https://www.siemens-healthineers.com/'
-          company_logo: siemens_healthineers_logo
+          company_logo: 
           location: Cairo, Egypt
           date_start: '2022-08-01'
           date_end: '2022-08-31'
