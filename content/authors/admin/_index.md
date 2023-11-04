@@ -40,7 +40,10 @@ education:
       institution: Cairo University 
       year: 2023
 
-
+buttons:
+  - title: Transcript
+    icon: arxiv
+    link: Transcript.pdf
 
 # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -112,10 +115,7 @@ social:
     icon_pack: ai
     link: uploads/Yasien_Essam_Resume.pdf
 
-buttons:
-  - title: Transcript
-    icon: arxiv
-    link: Transcript.pdf
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
