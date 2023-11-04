@@ -29,9 +29,9 @@ bio: My research interests include Biomedical Engineering, Deep Learning and Spo
 
 # Interests to show in About widget
 interests:
-  * Artificial Intelligence
-  * Computer-Aided Systems 
-  * Biomedical Engineering 
+  - Artificial Intelligence
+  - Computer-Aided Systems 
+  - Biomedical Engineering 
 
 # Education to show in About widget
 education:
