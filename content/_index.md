@@ -84,8 +84,7 @@ sections:
               * Used powerful Deep Neural Networks like Unet, attention Unet, and Efficient Net.
               * Optimized AI models for both CPU and GPU platforms to enhance performance and maximize computational resources.
               * Implemented Docker containers to encapsulate the various components of the system, enabling easy deployment and management.
-              * Utilized Azure Virtual Machines (VM) to host and run the containerized system.
-  
+              * Utilized Azure Virtual Machines to host and run the containerized system.
           - title: Biomedical Engineer Intern
           company:  Siemens Healthineers
           company_url: 'https://www.siemens-healthineers.com/'
