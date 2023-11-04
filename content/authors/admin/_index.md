@@ -39,12 +39,7 @@ education:
     - course: BSc in Biomedical Engineering
       institution: Cairo University 
       year: 2023
-  - block: buttons
-    content:
-      buttons:
-      - title: Transcript
-        icon: arxiv
-        link: Transcript.pdf
+
 
 
 # Skills
@@ -116,6 +111,13 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/Yasien_Essam_Resume.pdf
+
+  - block: buttons
+    content:
+      buttons:
+      - title: Transcript
+        icon: arxiv
+        link: Transcript.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
