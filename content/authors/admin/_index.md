@@ -112,12 +112,12 @@ social:
     icon_pack: ai
     link: uploads/Yasien_Essam_Resume.pdf
 
-  - block: buttons
-    content:
-      buttons:
-      - title: Transcript
-        icon: arxiv
-        link: Transcript.pdf
+- block: buttons
+  content:
+    buttons:
+    - title: Transcript
+      icon: arxiv
+      link: Transcript.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
