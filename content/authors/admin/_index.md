@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yasien Ghalwash | Biomedical Engineer
+title: Yasien Ghalwash 
 
 # # Name pronunciation (optional)
 # name_pronunciation: 
@@ -25,13 +25,13 @@ role: AI Engineer
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Biomedical Engineering, Deep Learning and Sport Engineering.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computer-Aided Systems 
-  - Sport Engineering
+  * Artificial Intelligence
+  * Computer-Aided Systems 
+  * Biomedical Engineering 
 
 # Education to show in About widget
 education:
@@ -39,6 +39,10 @@ education:
     - course: BSc in Biomedical Engineering
       institution: Cairo University 
       year: 2023
+       buttons:
+        - title: Transcript
+          icon: arxiv
+          link: Transcript.pdf
 
 # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
