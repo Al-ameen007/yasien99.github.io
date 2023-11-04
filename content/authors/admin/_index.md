@@ -39,12 +39,12 @@ education:
     - course: BSc in Biomedical Engineering
       institution: Cairo University 
       year: 2023
-    - block: buttons
-      content:
-        buttons:
-        - title: Transcript
-          icon: arxiv
-          link: Transcript.pdf
+  - block: buttons
+    content:
+      buttons:
+      - title: Transcript
+        icon: arxiv
+        link: Transcript.pdf
 
 
 # Skills
