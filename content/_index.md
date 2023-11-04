@@ -93,9 +93,7 @@ sections:
           date_start: '2022-08-01'
           date_end: '2022-08-31'
           description:  |2-
-              * Know the main components and Basics of MRI, CT, PET/CT
-and medical laboratory equipment
-
+              * Know the main components and Basics of MRI, CT, PET/CT and medical laboratory equipment
     design:
       columns: '2'
   # - block: accomplishments
