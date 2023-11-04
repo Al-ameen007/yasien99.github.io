@@ -68,7 +68,7 @@ sections:
           company_logo: inspire_for_solutions_development_logo
           location: Cairo, Egypt
           date_start: '2023-11-01'
-          date_end: 'Now'
+          date_end: ''
           description: |2-
               *  Utilized IBM Watson and other AI technologies, integrated them into IBM Cloud PAK, and monitored their performance.
 
