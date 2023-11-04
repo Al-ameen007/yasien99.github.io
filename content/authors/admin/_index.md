@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yasien Ghalwash
+title: Yasien Ghalwash | Biomedical Engineer
 
 # # Name pronunciation (optional)
 # name_pronunciation: 
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI & Automation Engineer
+role: AI Engineer
 
 # # Organizations/Affiliations to show in About widget
 # organizations:

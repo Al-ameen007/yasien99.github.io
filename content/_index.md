@@ -70,8 +70,7 @@ sections:
           date_start: '2023-11-01'
           date_end: 'Now'
           description: |2-
-              *  Utilized IBM Watson and other AI technologies, integrated
-them into IBM Cloud PAK, and monitored their performance.
+              *  Utilized IBM Watson and other AI technologies, integrated them into IBM Cloud PAK, and monitored their performance.
 
         - title: R&D Engineer
           company:  Astute imaging
