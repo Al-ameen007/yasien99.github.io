@@ -41,7 +41,7 @@ publication_short: In *EHB*
 abstract: Breast cancer stands as a formidable global health challenge, substantially impacting cancer-related mortality rates. Ultrasound (US) imaging has gained prominence in breast cancer diagnosis, particularly for individuals with dense breast tissue. However, the efficacy of US imaging is reliant on operator proficiency and is susceptible to noise, posing a substantial diagnostic hurdle. In this study, we have devised an automated ultrasound-based Computer-Aided Diagnosis (CAD) system designed to detect and classify breast cancer lesions. A dataset comprising 6,319 images from 2889 patients was employed. To ensure the generalizability of our AI algorithm, images were acquired using various US machines with different transducers (1-14 MHz). Deep learning methodologies were harnessed, encompassing the utilization of the EfficientNetV2-B0 architecture for image classification (benign/malignant) and the implementation of the Attention U-Net coupled with the Cosh log Dice loss function for breast lesion segmentation. Our CAD system demonstrated an impressive sensitivity of 89.0% and specificity of 92.0% for classification, along with a segmentation Dice score of 86.0%. The integration of such CAD systems into breast imaging workflows holds promise for diminishing the influence of human errors, consequently reducing diagnostic costs, and expediting the breast US imaging process.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: we proposed an automated ultrasound-based Computer-Aided Diagnosis (CAD) system designed to detect and classify breast cancer lesions. The dataset used in the study comprised 6,319 images from 2,889 patients. The AI algorithm used deep learning methodologies, including the EfficientNetV2-B0 architecture for image classification (benign/malignant) and the Attention U-Net coupled with the Cosh log Dice loss function for breast lesion segmentation. The CAD system demonstrated an impressive sensitivity of 89.0% and specificity of 92.0% for classification, along with a segmentation Dice score of 86.0%. The integration of such CAD systems into breast imaging workflows holds promise for diminishing the influence of human errors, consequently reducing diagnostic costs, and expediting the breast US imaging process.
 
 tags: [Breast cancer diagnosis, Ultrasound, Computer 
 aid diagnoses (CAD), Deep Learning, Explainable AI (XAI)]
@@ -56,18 +56,18 @@ featured: true
 
 url_pdf: 'Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://docs.google.com/document/d/1qM0I3yp5-EtSgGg0DNYMBRjXncHM_qMQz29gCE5BBkQ/edit?usp=sharing'
 # url_poster: ''
 # url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/18bN97qi6on96hP5E-K5R7g8ejEhiaB0b/edit?usp=sharing&ouid=118244753768174728856&rtpof=true&sd=true'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_video: 'https://youtu.be/N53bXYM0_rg'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+[image]:
+  caption: ''
+  focal_point: '  '
   preview_only: false
 
 # Associated Projects (optional).
@@ -76,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - Physician support for malignancy score decision in breast ultrasound imaging
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
