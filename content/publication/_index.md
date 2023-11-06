@@ -9,8 +9,8 @@ cms_exclude: true
 #   4 = Citation
 view: 3
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
