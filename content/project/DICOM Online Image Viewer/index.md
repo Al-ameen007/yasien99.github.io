@@ -43,14 +43,14 @@ url_video: ''
 A 3D medical viewer built with vtk-js that supports volume rendering with multiple presets and marching cubes.
 
 ## Samples
-![Demo Sample](docs/demo.png)
-![Demo2 Sample](docs/demo2.png)
-![Demo3 Sample](docs/demo3.png)
+![Demo Sample](https://github.com/Yasien99/3d-Medical_Volume_Rendering/blob/main/docs/demo.png)
+![Demo2 Sample](https://github.com/Yasien99/3d-Medical_Volume_Rendering/blob/main/docs/demo2.png)
+![Demo3 Sample](https://github.com/Yasien99/3d-Medical_Volume_Rendering/blob/main/docs/demo3.png)
 
 ## Implementation Details
 ### Thought Process
 First we started by the design we need to accomplish. And this is the `final result` as below.
-![Design Sample](docs/design.png)
+![Design Sample](https://github.com/Yasien99/3d-Medical_Volume_Rendering/blob/main/docs/design.png)
 
 Then our thought process was like that.
 - Only make head marching cubes example work.
