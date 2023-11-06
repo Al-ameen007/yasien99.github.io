@@ -19,10 +19,10 @@ superuser: true
 # Role/position/tagline
 role: AI Engineer
 
-# # Organizations/Affiliations to show in About widget
-# organizations:
-#   - name: Stanford University
-#     url: https://www.stanford.edu/
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: University Transcript
+    url: https://drive.google.com/file/d/1Cwuk0OrJxBb2R7xoAvSMnFDlC80e5PyQ/view?usp=sharing
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Biomedical Engineering, Deep Learning and Sport Engineering.
