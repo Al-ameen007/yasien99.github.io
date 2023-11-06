@@ -23,7 +23,7 @@ author_notes:
   - 'minor contribution'
   
 
-date: '2023-11-13T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
