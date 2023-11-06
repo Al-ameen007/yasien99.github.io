@@ -113,7 +113,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Yasien_Essam_Resume.pdf
+    link: uploads/resume.pdf
 
 
 
