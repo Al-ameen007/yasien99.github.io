@@ -1,6 +1,6 @@
 ---
 title: Bounding-box for Brain Cancer MRI
-summary: Versatile image processing methodology to auto-detect coverage bounding boxes on brain MRI images based on stated anatomic landmarks
+summary: Versatile image processing methodology to auto-detect coverage bounding boxes on brain MRI images based on stated anatomic landmarks
 tags:
   - Computer Vision
 date: '2016-04-27T00:00:00Z'

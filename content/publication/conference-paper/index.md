@@ -66,7 +66,7 @@ url_video: 'https://youtu.be/N53bXYM0_rg'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Grad CAM'
   focal_point: '  '
   preview_only: false
 
