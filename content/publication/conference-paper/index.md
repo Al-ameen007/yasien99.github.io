@@ -36,7 +36,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 11th IEEE International Conference on E-Health and Bioengineering*
-publication_short: In *EHB*
+publication_short: In *EHB 2023*
 
 abstract: Breast cancer stands as a formidable global health challenge, substantially impacting cancer-related mortality rates. Ultrasound (US) imaging has gained prominence in breast cancer diagnosis, particularly for individuals with dense breast tissue. However, the efficacy of US imaging is reliant on operator proficiency and is susceptible to noise, posing a substantial diagnostic hurdle. In this study, we have devised an automated ultrasound-based Computer-Aided Diagnosis (CAD) system designed to detect and classify breast cancer lesions. A dataset comprising 6,319 images from 2889 patients was employed. To ensure the generalizability of our AI algorithm, images were acquired using various US machines with different transducers (1-14 MHz). Deep learning methodologies were harnessed, encompassing the utilization of the EfficientNetV2-B0 architecture for image classification (benign/malignant) and the implementation of the Attention U-Net coupled with the Cosh log Dice loss function for breast lesion segmentation. Our CAD system demonstrated an impressive sensitivity of 89.0% and specificity of 92.0% for classification, along with a segmentation Dice score of 86.0%. The integration of such CAD systems into breast imaging workflows holds promise for diminishing the influence of human errors, consequently reducing diagnostic costs, and expediting the breast US imaging process.
 
@@ -86,7 +86,7 @@ projects:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -94,4 +94,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
