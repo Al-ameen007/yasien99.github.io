@@ -114,6 +114,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: arxiv
+    link: https://drive.google.com/file/d/1Cwuk0OrJxBb2R7xoAvSMnFDlC80e5PyQ/view?usp=sharing
 
 
 
