@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-I'm  Yasien a Fresh Graduate Student from Systems and Bio-Medical Engineering Department at Cairo University, Egypt.
+I'm Yasien a Fresh Graduate Student from Systems and Bio-Medical Engineering Department at Cairo University, Egypt.
 I'm Currently working as AI Engineer at [Inspire for Solutions Developments](https://www.linkedin.com/company/inspire-for-solutions-development/) since August 2023.
 I'm Interested in Artifical Intellegence, Computer Vision, Image Processing and Software Development.
 My GPA is 3.4. My IELTS score is 7.0.
