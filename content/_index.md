@@ -257,7 +257,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       You can contanct me anytime and my timezone is UTC +2.
+       Feel free to reach out to me at any time. My current timezone is UTC+2.
       # Contact (add or remove contact options as necessary)
       email: yasien.essam10@gmail.com
       phone: +20 1114382832
