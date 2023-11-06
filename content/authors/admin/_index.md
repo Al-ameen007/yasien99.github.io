@@ -123,7 +123,9 @@ social:
 highlight_name: true
 ---
 
-I'm Yasien, a recent graduate from the Systems and Biomedical Engineering Department at Cairo University, Egypt. Currently, I am working as an AI Engineer at [Inspire for Solutions Developments](https://www.linkedin.com/company/inspire-for-solutions-development/) since August 2023. My areas of interest include Artificial Intelligence, Computer Vision, Image Processing, and Software Development. My GPA is 3.4, and I have an IELTS score of 7.0.
+I'm Yasien, a recent graduate from the Systems and Biomedical Engineering Department at Cairo University, Egypt. Currently, I am working as an AI Engineer at [Inspire for Solutions Developments](https://www.linkedin.com/company/inspire-for-solutions-development/) since August 2023. 
+
+My areas of interest include Artificial Intelligence, Computer Vision, Image Processing, and Software Development. My GPA is 3.4, and I have an IELTS score of 7.0.
 
 You can access all my academic documentation through the following link:
 [Academic Documentation](https://drive.google.com/drive/folders/1J1sr18AcUmAz6W3MrIkWJ2xpWHlXXjSp?usp=sharing)
