@@ -18,7 +18,7 @@ links:
   #   name: Follow
   #   url: https://github.com/Yasien99/GI-Tract-Image-Segmentation
 url_code: 'https://github.com/Yasien99/Bounding-box-for-Brain-Cancer-MRI-Scans/tree/main'
-url_pdf: 'Proposal-YasienEssam'
+url_pdf: 'uploads/Proposal-YasienEssam'
 url_slides: ''
 url_video: ''
 
