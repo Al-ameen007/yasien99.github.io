@@ -181,7 +181,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Computer Learning
+        - name: Computer Vision
           tag: Deep Learning
         - name: Deep Learning
           tag: Deep Learning
