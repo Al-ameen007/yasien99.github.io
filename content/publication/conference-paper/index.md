@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images.pdf'
+url_pdf: 'uploads/Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://docs.google.com/document/d/1qM0I3yp5-EtSgGg0DNYMBRjXncHM_qMQz29gCE5BBkQ/edit?usp=sharing'
 # url_poster: ''
@@ -76,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Physician support for malignancy score decision in breast ultrasound imaging
+  - Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
