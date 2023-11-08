@@ -4,7 +4,7 @@ title: Music Equalizer and Virtual Instruments
 summary: A desktop application created by PyQT. Can be used as a Music Player. In addition, can do signal processing on songs to supress certain musical instruments or emphasize certain instruments. There is some built-in virtual musical instruments which you can play with and generate notes.
 tags:
   - DSP
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

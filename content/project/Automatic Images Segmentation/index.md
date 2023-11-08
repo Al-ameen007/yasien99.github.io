@@ -3,7 +3,7 @@ title: Automatic Image Segementation
 summary: Implementing U-Net CNN by Tensorflow. Building U-Net Encoder and Decoder and using skip connections between them to segment input images into different classes.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

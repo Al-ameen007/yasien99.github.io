@@ -4,7 +4,7 @@ title: Music Generation by LSTM
 summary: Training LSTM Model implemented by TensorFlow on music notes after processing them, and eventually the model was able to create new notes.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-11-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

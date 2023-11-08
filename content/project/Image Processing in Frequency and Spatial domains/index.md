@@ -3,7 +3,7 @@ title: Image Processing in Frequency and Spatial domains
 summary: Image Processing GUI using Python.Implemented some image processing algorithms applicable on both RGB and grayscale Images with the ability to modify the kernel size (filter strength). Filters implemented and applied Histogram Equalisation, Mean Filter, Median Filter, Low Pass Filter, High Pass Filter, Gaussian Filter, Sobel Filter, and Laplacbian Filter.
 tags:
   - Computer Vision
-date: '2016-04-27T00:00:00Z'
+date: '2022-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

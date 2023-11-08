@@ -3,7 +3,7 @@ title: Face Recognition
 summary: Facial detection model that learns the latent variables underlying face image datasets and uses this to adaptively re-sample the training data.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

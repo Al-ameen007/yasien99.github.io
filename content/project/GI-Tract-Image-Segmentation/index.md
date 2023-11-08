@@ -3,7 +3,7 @@ title: GI-Tract-Image-Segmentation
 summary: Using U-Net architecture to effectively segment the stomach and intestines in MRI scans in order to improve the cancer treatment to avoid high doses of radiation to healthy tissues.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-12-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

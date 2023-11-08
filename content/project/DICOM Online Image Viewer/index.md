@@ -4,7 +4,7 @@ title: DICOM Online Image Viewer
 summary: This is a web-based project. created with ReactJS. It can Load DICOM images and navigate through them. There is some widgets to add more functionalities to the project.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
