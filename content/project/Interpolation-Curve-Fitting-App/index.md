@@ -2,8 +2,9 @@
 title: Interpolation-Curve-Fitting-App
 summary: Curve fitting and interpolation are among the most useful tool in signal processing and data science! this desktop app opens the door to engineers to easily visualize how the process is done using one chunk or multiple chunks, Also the error map shows us how our model is far from the original data and what is the percentage error.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - DSP
+
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
