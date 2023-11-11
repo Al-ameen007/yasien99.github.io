@@ -14,9 +14,8 @@ location: Bucharest - Romania
 #   country: United States
 # M, 2nd floor Aula Magna, at Calea Văcărești Street, no 189.
 
-summary: EHB 2023 Conference Presentation 
-abstract: 'My presentation for our gradution project paper in EHB 2023 Conference.'
-
+summary: My presentation for our gradution project paper in EHB 2023 Conference.
+# abstract: 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-11-09T13:00:00Z'
