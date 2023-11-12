@@ -127,7 +127,7 @@ I'm Yasien, a recent graduate from the Systems and Biomedical Engineering Depart
 
 My areas of interest include Artificial Intelligence, Computer Vision, Image Processing, and Software Development. **My GPA is 3.4**, and I have an **IELTS score of 7.0**.
 
-All my academic documents can be find through the following link: [Academic Documents](https://drive.google.com/drive/folders/1J1sr18AcUmAz6W3MrIkWJ2xpWHlXXjSp?usp=sharing)
+<!-- All my academic documents can be find through the following link: [Academic Documents](https://drive.google.com/drive/folders/1J1sr18AcUmAz6W3MrIkWJ2xpWHlXXjSp?usp=sharing) -->
 
 {style="text-align: justify;"}
 

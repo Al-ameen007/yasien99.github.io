@@ -59,7 +59,7 @@ url_pdf: 'uploads/Computer-Aided System for Breast Cancer Lesion Segmentation an
 url_dataset: 'https://docs.google.com/document/d/1qM0I3yp5-EtSgGg0DNYMBRjXncHM_qMQz29gCE5BBkQ/edit?usp=sharing'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/18bN97qi6on96hP5E-K5R7g8ejEhiaB0b/edit?usp=sharing&ouid=118244753768174728856&rtpof=true&sd=true'
+url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_video: 'https://youtu.be/N53bXYM0_rg'
 
