@@ -66,17 +66,17 @@ sections:
         - title: AI Engineer
           company: Inspire for Solutions Development
           company_url: 'https://www.linkedin.com/company/inspire-for-solutions-development/mycompany/'
-          company_logo: astute_imaging_logo
+          company_logo: 
           location: Cairo, Egypt
           date_start: '2023-11-01'
           date_end: ''
           description: |2-
               *  Utilized IBM Watson Assistant focused on using AI to power virtual assistants. Use and create artificial intelligence software including machine learning and natural language processing to help people and organizations solve problems more effectively.
 
-        - title: R&D Engineer
+        - title: Research and Development Engineer
           company:  Astute imaging
           company_url: 'https://astuteimaging.com/'
-          company_logo: 
+          company_logo: astute_imaging_logo
           location: Cairo, Egypt
           date_start: '2022-09-01'
           date_end: '2023-08-31'
