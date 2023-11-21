@@ -66,7 +66,7 @@ sections:
         - title: AI Engineer
           company: Inspire for Solutions Development
           company_url: 'https://www.linkedin.com/company/inspire-for-solutions-development/mycompany/'
-          company_logo: 
+          company_logo: astute_imaging_logo
           location: Cairo, Egypt
           date_start: '2023-11-01'
           date_end: ''
