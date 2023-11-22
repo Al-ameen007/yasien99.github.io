@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '©Yasien Ghalwash 2023. This work is open source'
+    notice: '©2023 Yasien Ghalwash. This work is open source'
     license:
       enable: true
       allow_derivatives: false
