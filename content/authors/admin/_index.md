@@ -32,7 +32,7 @@ interests:
   - Biomedical Engineering 
   - Machine Learning 
   - Computer vision
-  - Computer-Aided Systems 
+  - Sport Engineering
 # Education to show in About widget
 education:
   courses:
