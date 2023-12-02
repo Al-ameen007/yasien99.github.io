@@ -56,7 +56,7 @@ featured: true
 
 url_pdf: 'uploads/Computer-Aided System for Breast Cancer Lesion Segmentation and Classification Using Ultrasound Images.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://docs.google.com/document/d/1qM0I3yp5-EtSgGg0DNYMBRjXncHM_qMQz29gCE5BBkQ/edit?usp=sharing'
+url_dataset: 'uploads/Datasets Links.pdf'
 # url_poster: ''
 # url_project: ''
 url_slides: ''
