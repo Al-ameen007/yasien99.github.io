@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI Engineer
+role: Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -25,13 +25,13 @@ role: AI Engineer
 #     url: https://drive.google.com/file/d/1Cwuk0OrJxBb2R7xoAvSMnFDlC80e5PyQ/view?usp=sharing
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Biomedical Engineering, Deep Learning and Computer-Aided Systems.
+bio: My research interests include Machine Learning , Deep Learning and Computer-Aided Systems.
 
 # Interests to show in About widget
-interests:
-  - Biomedical Engineering 
+interests: 
   - Machine Learning 
   - Computer vision
+  - Biomedical Engineering
   - Sport Engineering
 # Education to show in About widget
 education:
@@ -39,11 +39,6 @@ education:
     - course: BSc in Biomedical Engineering
       institution: Cairo University 
       year: 2023
-
-buttons:
-  - title: Transcript
-    icon: arxiv
-    link: Transcript.pdf
 
 # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -99,12 +94,14 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=75Z_2_MAAAAJ&hl=en
+
   - icon: github
     icon_pack: fab
     link: https://github.com/Yasien99
+
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yasien99/
