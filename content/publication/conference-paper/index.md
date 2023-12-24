@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://www.ehbconference.ro/Portals/0/EHBWeb_2023_paper_77.pdf'
+url_pdf: 'https://www.researchgate.net/publication/376238446_Computer-Aided_System_for_Breast_Cancer_Lesion_Segmentation_and_Classification_Using_Ultrasound_Images#fullTextFileContent'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'uploads/Datasets Links.pdf'
 # url_poster: ''
